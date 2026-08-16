@@ -1,6 +1,6 @@
-# Hi there, I'm Cozynxis <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" valign="middle" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="30" height="30" valign="middle" />
+# Hi there, I'm Cozynxis <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" valign="middle" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" width="30" height="30" valign="middle" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20" valign="middle" /> Full-Stack Developer & Tech Enthusiast <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" width="20" height="20" valign="middle" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" height="20" valign="middle" /> Full-Stack Developer & Tech Enthusiast <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="20" height="20" valign="middle" />
 
 ---
 
@@ -42,8 +42,12 @@
 
 ---
 
-### ⚡ Streak & Coding Activity
+### 📊 Profile Dashboard
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Cozynxis&theme=dracula&hide_border=true)
+| 📁 Repositories | ⚡ Current Activity | 👥 Community |
+| :--- | :---: | :--- |
+| **Public Repos:** `12` *(vul hier je aantal in)*<br>**Private Repos:** `8` *(vul hier je aantal in)*<br><br>📊 **Total Repos:** `20` | ![GitHub Streak](https://streak-stats.demolab.com?user=Cozynxis&theme=dracula&hide_border=true) | 👥 **Followers:** `0`<br>👤 **Following:** `0` |
+
+---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cozynxis&layout=compact&theme=dracula&hide_border=true)

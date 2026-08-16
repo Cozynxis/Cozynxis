@@ -1,6 +1,6 @@
-# Hi there, I'm Cozynxis <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" valign="middle" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" width="30" height="30" valign="middle" />
+# Hi there, I'm Cozynxis <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" valign="middle" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-plain.svg" width="30" height="30" valign="middle" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" height="20" valign="middle" /> Full-Stack Developer & Tech Enthusiast <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="20" height="20" valign="middle" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="20" height="20" valign="middle" /> Full-Stack Developer & Tech Enthusiast <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="20" height="20" valign="middle" />
 
 ---
 

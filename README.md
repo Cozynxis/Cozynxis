@@ -1,4 +1,5 @@
 # Hi there, I'm Cozynxis <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" valign="middle"
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="20" height="20" valign="middle" /> Full-Stack Developer & Tech Enthusiast, im working on a lot of projects, you can hire me aswell, and im just making some random projects i like! And i make full working Discord bots aswell. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="20" height="20" valign="middle" />
 
 ---

@@ -1,6 +1,6 @@
-# Hi there, I'm Cozynxis 👋
+# Hi there, I'm Cozynxis 🧑‍💻🚀
 
-Developer & Tech Enthusiast
+💻 Full-Stack Developer & Tech Enthusiast ⚡
 
 ---
 
@@ -42,8 +42,8 @@ Developer & Tech Enthusiast
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies & Activity
 
-![Cozynxis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cozynxis&show_icons=true&theme=dracula&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cozynxis&theme=dracula&no-bg=true&margin-w=15)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cozynxis&layout=compact&theme=dracula&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cozynxis&theme=dracula&hide_border=true)

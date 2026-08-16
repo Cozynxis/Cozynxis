@@ -1,65 +1,49 @@
-<div align="center">
-
 # Hi there, I'm Cozynxis 👋
 
-*Developer & Tech Enthusiast*
+Developer & Tech Enthusiast
 
 ---
 
-### 💻 Tech Stack
+### 💻 Languages
 
-**Languages**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-</p>
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" height="22" valign="middle" /> **JavaScript**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22" valign="middle" /> **Python**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" height="22" valign="middle" /> **HTML5**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" height="22" valign="middle" /> **CSS3**
 
-**Frameworks**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
-</p>
+---
 
-**Backend**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-</p>
+### ⚙️ Frameworks & Libraries
 
-**Tools & Platforms**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-</p>
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" height="22" valign="middle" /> **React**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="22" height="22" valign="middle" /> **Node.js**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="22" height="22" valign="middle" /> **Express**
+
+---
+
+### 🗄️ Backend & Databases
+
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="22" height="22" valign="middle" /> **MongoDB**
+
+---
+
+### 🛠️ Tools & Platforms
+
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22" valign="middle" /> **GitHub**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22" height="22" valign="middle" /> **Docker**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22" height="22" valign="middle" /> **VS Code**
 
 ---
 
 ### 💖 Favorite Apps
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" height="40" alt="Discord" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" height="40" alt="Steam" />
-</p>
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="22" height="22" valign="middle" /> **Discord**
+* <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="22" height="22" valign="middle" /> **Steam**
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cozynxis&show_icons=true&theme=dracula&hide_border=true" alt="Cozynxis's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cozynxis&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+![Cozynxis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cozynxis&show_icons=true&theme=dracula&hide_border=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cozynxis&layout=compact&theme=dracula&hide_border=true)

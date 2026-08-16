@@ -1,6 +1,6 @@
-# Hi there, I'm Cozynxis 🧑‍💻🚀
+# Hi there, I'm Cozynxis <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" valign="middle" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="30" height="30" valign="middle" />
 
-💻 Full-Stack Developer & Tech Enthusiast ⚡
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20" valign="middle" /> Full-Stack Developer & Tech Enthusiast <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" width="20" height="20" valign="middle" />
 
 ---
 
@@ -42,8 +42,8 @@
 
 ---
 
-### 🏆 GitHub Trophies & Activity
+### ⚡ Streak & Coding Activity
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cozynxis&theme=dracula&no-bg=true&margin-w=15)
+![GitHub Streak](https://streak-stats.demolab.com?user=Cozynxis&theme=dracula&hide_border=true)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cozynxis&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cozynxis&layout=compact&theme=dracula&hide_border=true)

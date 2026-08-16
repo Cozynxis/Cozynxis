@@ -46,4 +46,4 @@
 
 | 📁 Repositories | ⚡ Current Activity | 👥 Community |
 | :--- | :---: | :--- |
-| **Public Repos:** `12` <br>**Private Repos:** `42` <br><br>📊 **Total Repos:** `54` | ![GitHub Streak](https://streak-stats.demolab.com?user=Cozynxis&theme=dracula&hide_border=true) | 👥 **Followers:** `0`<br>👤 **Following:** `0` |
+| **Public Repos:** `12` <br>**Private Repos:** `42` <br><br>📊 **Total Repos:** `54` | ![GitHub Streak](https://streak-stats.demolab.com?user=Cozynxis&theme=dracula&hide_border=true) | 👥 **Followers:** `0`<br>👤 **Following:** `1` |

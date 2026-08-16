@@ -47,7 +47,3 @@
 | 📁 Repositories | ⚡ Current Activity | 👥 Community |
 | :--- | :---: | :--- |
 | **Public Repos:** `12` <br>**Private Repos:** `42` <br><br>📊 **Total Repos:** `54` | ![GitHub Streak](https://streak-stats.demolab.com?user=Cozynxis&theme=dracula&hide_border=true) | 👥 **Followers:** `0`<br>👤 **Following:** `0` |
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cozynxis&layout=compact&theme=dracula&hide_border=true)

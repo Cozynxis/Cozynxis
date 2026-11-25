@@ -122,16 +122,27 @@ Choose your browser to get started.
 
 <!-- COMMUNITY:START -->
 <details>
-<summary>👥 View followers</summary>
+<summary>👥 View followers (1)</summary>
 
-The list will appear after the first automatic update.
+<table>
+<tr>
+<td align="center"><a href="https://github.com/Assausive"><img src="https://avatars.githubusercontent.com/u/47852645?v=4" width="56" height="56" alt="Assausive" /><br /><sub><b>Assausive</b></sub></a></td>
+</tr>
+</table>
+
 
 </details>
 
 <details>
-<summary>👤 View following</summary>
+<summary>👤 View following (2)</summary>
 
-The list will appear after the first automatic update.
+<table>
+<tr>
+<td align="center"><a href="https://github.com/JustBoyke"><img src="https://avatars.githubusercontent.com/u/44916558?v=4" width="56" height="56" alt="JustBoyke" /><br /><sub><b>JustBoyke</b></sub></a></td>
+<td align="center"><a href="https://github.com/Assausive"><img src="https://avatars.githubusercontent.com/u/47852645?v=4" width="56" height="56" alt="Assausive" /><br /><sub><b>Assausive</b></sub></a></td>
+</tr>
+</table>
+
 
 </details>
 <!-- COMMUNITY:END -->

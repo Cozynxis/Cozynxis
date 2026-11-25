@@ -57,12 +57,11 @@ I work on all kinds of projects — from websites and apps to fully functional D
 
 ---
 
-### 💖 Favorite Apps
+### 📬 Contact
 
 <div align="center">
 
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="24" height="24" alt="Discord" /> &nbsp; <b>Cozynxis</b>
 
 </div>
 
@@ -72,7 +71,7 @@ I work on all kinds of projects — from websites and apps to fully functional D
 
 | 📁 Repositories | ⚡ Current Activity | 👥 Community |
 | :--- | :---: | :--- |
-| **Public Repos:** `12` <br>**Private Repos:** `42` <br><br>📊 **Total Repos:** `54` | ![GitHub Streak](https://streak-stats.demolab.com?user=Cozynxis&theme=dracula&hide_border=true) | 👥 **Followers:** `0`<br>👤 **Following:** `1` |
+| **Public Repos:** `47` <br>**Private Repos:** `3` <br><br>📊 **Total Repos:** `50` | ![GitHub Streak](https://streak-stats.demolab.com?user=Cozynxis&theme=dracula&hide_border=true) | ![Followers](https://img.shields.io/github/followers/Cozynxis?style=flat-square&label=Followers) <br> [Following](https://github.com/Cozynxis?tab=following) |
 
 <div align="center">
 

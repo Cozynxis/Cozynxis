@@ -120,6 +120,22 @@ Choose your browser to get started.
 | :--- | :---: | :--- |
 | **Public Repos:** `47` <br>**Private Repos:** `3` <br><br>📊 **Total Repos:** `50` | ![GitHub Streak](https://streak-stats.demolab.com?user=Cozynxis&theme=dracula&hide_border=true) | ![Followers](https://img.shields.io/github/followers/Cozynxis?style=flat-square&label=Followers) <br> [![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCozynxis&query=%24.following&label=Following&style=flat-square&color=blue)](https://github.com/Cozynxis?tab=following) |
 
+<!-- COMMUNITY:START -->
+<details>
+<summary>👥 View followers</summary>
+
+The list will appear after the first automatic update.
+
+</details>
+
+<details>
+<summary>👤 View following</summary>
+
+The list will appear after the first automatic update.
+
+</details>
+<!-- COMMUNITY:END -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:0D1117,45:263C85,100:7B42D6" width="100%" alt="Footer" />

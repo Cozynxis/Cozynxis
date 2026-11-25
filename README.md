@@ -75,6 +75,12 @@ A browser extension that enhances the Somtoday experience with additional featur
 
 [![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bjarnos/Somtoday-Mod-CE)
 
+<br>
+
+[![Chrome - Add Extension](https://img.shields.io/badge/Chrome-Add_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/somtoday-mod-ce/ihfpaeafponejgdhegkdfhcffpcdhbel)
+[![Edge - Add Extension](https://img.shields.io/badge/Edge-Add_Extension-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/somtoday-mod-ce/cijmmhcnhlgcljcjpbodolpgaplofkgk)
+[![Firefox - Add Extension](https://img.shields.io/badge/Firefox-Add_Extension-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/somtoday-mod-ce/)
+
 </td></tr>
 </table>
 

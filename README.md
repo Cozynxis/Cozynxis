@@ -61,28 +61,44 @@ I work on all kinds of projects — from websites and apps to fully functional D
 
 <div align="center">
 
-<table>
-<tr><td align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=0:081B39,50:1554A0,100:38BDF8&text=Somtoday%20Mod%20CE&fontColor=ffffff&fontSize=38&fontAlignY=35&animation=twinkling" width="100%" alt="Somtoday Mod CE" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:1554A0,100:38BDF8&text=Somtoday%20Mod%20CE&fontColor=ffffff&fontSize=30&animation=fadeIn" width="480" alt="Somtoday Mod CE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Your+school+experience%2C+upgraded.;More+features.+More+freedom.;Available+on+Chrome%2C+Edge+and+Firefox." alt="Somtoday Mod CE features" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Enhance+your+Somtoday+experience;More+features.+More+customization." alt="Enhance your Somtoday experience" />
+A browser extension that enhances Somtoday with additional features and customization.
 
-A browser extension that enhances the Somtoday experience with additional features and customization.
-
-![Browser Extension](https://img.shields.io/badge/Browser-Extension-2563EB?style=flat-square&logo=googlechrome&logoColor=white)
+![Browser Extension](https://img.shields.io/badge/Browser_Extension-1554A0?style=flat-square&logo=googlechrome&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bjarnos/Somtoday-Mod-CE)
+[![View Source Code](https://img.shields.io/badge/View_Source_Code-21262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bjarnos/Somtoday-Mod-CE)
 
-<br>
+---
 
-[![Chrome - Add Extension](https://img.shields.io/badge/Chrome-Add_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/somtoday-mod-ce/ihfpaeafponejgdhegkdfhcffpcdhbel)
-[![Edge - Add Extension](https://img.shields.io/badge/Edge-Add_Extension-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/somtoday-mod-ce/cijmmhcnhlgcljcjpbodolpgaplofkgk)
-[![Firefox - Add Extension](https://img.shields.io/badge/Firefox-Add_Extension-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/somtoday-mod-ce/)
+**INSTALL SOMTODAY MOD CE**
 
-</td></tr>
+Choose your browser to get started.
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<a href="https://chromewebstore.google.com/detail/somtoday-mod-ce/ihfpaeafponejgdhegkdfhcffpcdhbel"><img src="https://cdn.jsdelivr.net/gh/alrra/browser-logos@main/src/chrome/chrome_64x64.png" width="48" alt="Chrome" /></a><br>
+<b>Chrome</b><br><br>
+<a href="https://chromewebstore.google.com/detail/somtoday-mod-ce/ihfpaeafponejgdhegkdfhcffpcdhbel"><img src="https://img.shields.io/badge/Add_Extension-4285F4?style=for-the-badge&logoColor=white&logo=googlechrome" alt="Add extension to Chrome" /></a>
+</td>
+<td align="center" width="33%">
+<a href="https://microsoftedge.microsoft.com/addons/detail/somtoday-mod-ce/cijmmhcnhlgcljcjpbodolpgaplofkgk"><img src="https://cdn.jsdelivr.net/gh/alrra/browser-logos@main/src/edge/edge_64x64.png" width="48" alt="Edge" /></a><br>
+<b>Edge</b><br><br>
+<a href="https://microsoftedge.microsoft.com/addons/detail/somtoday-mod-ce/cijmmhcnhlgcljcjpbodolpgaplofkgk"><img src="https://img.shields.io/badge/Add_Extension-0078D7?style=for-the-badge&logoColor=white" alt="Add extension to Edge" /></a>
+</td>
+<td align="center" width="33%">
+<a href="https://addons.mozilla.org/en-US/firefox/addon/somtoday-mod-ce/"><img src="https://cdn.jsdelivr.net/gh/alrra/browser-logos@main/src/firefox/firefox_64x64.png" width="48" alt="Firefox" /></a><br>
+<b>Firefox</b><br><br>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/somtoday-mod-ce/"><img src="https://img.shields.io/badge/Add_Extension-FF7139?style=for-the-badge&logoColor=white&logo=firefoxbrowser" alt="Add extension to Firefox" /></a>
+</td>
+</tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=55&color=0:081B39,50:1554A0,100:38BDF8" width="100%" alt="" />
 
 </div>
 

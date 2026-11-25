@@ -57,6 +57,26 @@ I work on all kinds of projects — from websites and apps to fully functional D
 
 ---
 
+### 🚀 My Projects
+
+<div align="center">
+
+<table>
+<tr><td align="center">
+
+**Somtoday Mod CE**
+
+A browser extension that enhances the Somtoday experience with additional features and customization.
+
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bjarnos/Somtoday-Mod-CE)
+
+</td></tr>
+</table>
+
+</div>
+
+---
+
 ### 📬 Contact
 
 <div align="center">

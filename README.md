@@ -118,7 +118,7 @@ Choose your browser to get started.
 
 | 📁 Repositories | ⚡ Current Activity | 👥 Community |
 | :--- | :---: | :--- |
-| **Public Repos:** `47` <br>**Private Repos:** `3` <br><br>📊 **Total Repos:** `50` | ![GitHub Streak](https://streak-stats.demolab.com?user=Cozynxis&theme=dracula&hide_border=true) | ![Followers](https://img.shields.io/github/followers/Cozynxis?style=flat-square&label=Followers) <br> [Following](https://github.com/Cozynxis?tab=following) |
+| **Public Repos:** `47` <br>**Private Repos:** `3` <br><br>📊 **Total Repos:** `50` | ![GitHub Streak](https://streak-stats.demolab.com?user=Cozynxis&theme=dracula&hide_border=true) | ![Followers](https://img.shields.io/github/followers/Cozynxis?style=flat-square&label=Followers) <br> [![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCozynxis&query=%24.following&label=Following&style=flat-square&color=blue)](https://github.com/Cozynxis?tab=following) |
 
 <div align="center">
 

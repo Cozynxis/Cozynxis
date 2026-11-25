@@ -1,35 +1,49 @@
-<div align="center">
-  <img src="./assets/profile-banner.svg" width="880" alt="">
+# Hi there, I'm Cozynxis <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" valign="middle" />
 
-  <h1>Hey, I'm Cozynxis</h1>
-  <p><strong>Full-stack developer</strong> building web apps, Discord bots, browser extensions and games.</p>
-  <p>Open to freelance work and collaborations.</p>
-  <p>
-    <a href="https://github.com/Cozynxis?tab=repositories"><strong>Browse repositories</strong></a>
-    · <a href="https://github.com/Cozynxis?tab=overview#contribution-activity">See GitHub activity</a>
-  </p>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="20" height="20" valign="middle" /> Full-Stack Developer & Tech Enthusiast, im working on a lot of projects, you can hire me aswell, and im just making some random projects i like! And i make full working Discord bots aswell.
 
-## Featured projects
+---
 
-<p align="center">
-  <a href="https://github.com/Cozynxis/SkyFront"><img src="./assets/skyfront.svg" width="370" alt="SKYFRONT — A 3D battle royale for the browser"></a>
-  <a href="https://github.com/Cozynxis/Somtoday-PLUS"><img src="./assets/somtoday-plus.svg" width="370" alt="Somtoday+ — A browser extension for customizing Somtoday"></a>
-  <a href="https://github.com/Cozynxis/Roky-s-Market-Embeds-V2"><img src="./assets/embed-studio.svg" width="370" alt="Embed Studio — A dashboard for Discord embeds and Components V2"></a>
-  <a href="https://github.com/Cozynxis/Song-Player"><img src="./assets/song-player.svg" width="370" alt="Song Player — A music player mod for Minecraft Fabric"></a>
-</p>
+### 💻 Languages
 
-## Tech stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-| Area | What I use |
-| :-- | :-- |
-| Languages & markup | `JavaScript` · `Python` · `HTML` · `CSS` |
-| Frameworks & runtime | `React` · `Node.js` · `Express` |
-| Database | `MongoDB` |
-| Development tools | `Git` · `GitHub` · `Docker` · `VS Code` |
+---
 
-## GitHub activity
+### ⚙️ Frameworks & Libraries
 
-<p align="center">
-  <a href="https://github.com/Cozynxis?tab=overview#contribution-activity"><img src="./assets/activity.svg" width="560" alt="View recent GitHub contributions"></a>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+### 🗄️ Backend & Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 🛠️ Tools & Platforms
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 💖 Favorite Apps
+
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+
+---
+
+### 📊 Profile Dashboard
+
+| 📁 Repositories | ⚡ Current Activity | 👥 Community |
+| :--- | :---: | :--- |
+| **Public Repos:** `12` <br>**Private Repos:** `42` <br><br>📊 **Total Repos:** `54` | ![GitHub Streak](https://streak-stats.demolab.com?user=Cozynxis&theme=dracula&hide_border=true) | 👥 **Followers:** `0`<br>👤 **Following:** `1` |

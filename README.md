@@ -64,9 +64,14 @@ I work on all kinds of projects — from websites and apps to fully functional D
 <table>
 <tr><td align="center">
 
-**Somtoday Mod CE**
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:1554A0,100:38BDF8&text=Somtoday%20Mod%20CE&fontColor=ffffff&fontSize=30&animation=fadeIn" width="480" alt="Somtoday Mod CE" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Enhance+your+Somtoday+experience;More+features.+More+customization." alt="Enhance your Somtoday experience" />
 
 A browser extension that enhances the Somtoday experience with additional features and customization.
+
+![Browser Extension](https://img.shields.io/badge/Browser-Extension-2563EB?style=flat-square&logo=googlechrome&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 [![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bjarnos/Somtoday-Mod-CE)
 

@@ -68,7 +68,7 @@ I work on all kinds of projects — from websites and apps to fully functional D
 A browser extension that enhances Somtoday with additional features and customization.
 
 ![Browser Extension](https://img.shields.io/badge/Browser_Extension-1554A0?style=flat-square&logo=googlechrome&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Code](https://img.shields.io/badge/Code-2563EB?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 [![View Source Code](https://img.shields.io/badge/View_Source_Code-21262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bjarnos/Somtoday-Mod-CE)
 

@@ -1,0 +1,36 @@
+name: Update community lists
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/community.yml'
+      - '.github/scripts/community.py'
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: community-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh community lists
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/community.py
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Update community lists"
+          git pull --rebase origin main
+          git push

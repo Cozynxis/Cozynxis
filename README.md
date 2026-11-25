@@ -134,12 +134,13 @@ Choose your browser to get started.
 </details>
 
 <details>
-<summary>👤 View following (2)</summary>
+<summary>👤 View following (3)</summary>
 
 <table>
 <tr>
 <td align="center"><a href="https://github.com/JustBoyke"><img src="https://avatars.githubusercontent.com/u/44916558?v=4" width="56" height="56" alt="JustBoyke" /><br /><sub><b>JustBoyke</b></sub></a></td>
 <td align="center"><a href="https://github.com/Assausive"><img src="https://avatars.githubusercontent.com/u/47852645?v=4" width="56" height="56" alt="Assausive" /><br /><sub><b>Assausive</b></sub></a></td>
+<td align="center"><a href="https://github.com/Bjarnos"><img src="https://avatars.githubusercontent.com/u/137303555?v=4" width="56" height="56" alt="Bjarnos" /><br /><sub><b>Bjarnos</b></sub></a></td>
 </tr>
 </table>
 

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 258" width="880" height="258" aria-hidden="true">
+  <defs>
+    <linearGradient id="surface" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101021"/>
+      <stop offset=".62" stop-color="#151331"/>
+      <stop offset="1" stop-color="#211a46"/>
+    </linearGradient>
+    <radialGradient id="aura">
+      <stop stop-color="#9165ff" stop-opacity=".33"/>
+      <stop offset="1" stop-color="#9165ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="type" x2="1" y2=".85">
+      <stop stop-color="#fff"/>
+      <stop offset=".55" stop-color="#eee4ff"/>
+      <stop offset="1" stop-color="#ba9bff"/>
+    </linearGradient>
+    <linearGradient id="orbit" x2="1" y2="1">
+      <stop stop-color="#5b48a2"/>
+      <stop offset="1" stop-color="#b69aff"/>
+    </linearGradient>
+    <pattern id="grid" width="29" height="29" patternUnits="userSpaceOnUse">
+      <path d="M29 0H0v29" fill="none" stroke="#bda9f8" stroke-opacity=".09"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="878" height="256" rx="23"/></clipPath>
+    <style>
+      .spinner { transform-origin: 700px 129px; animation: spin 16s linear infinite; }
+      .spark { animation: glow 4s ease-in-out infinite; }
+      .late { animation-delay: -2s; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      @keyframes glow { 50% { opacity: .35; } }
+      @media (prefers-reduced-motion: reduce) { .spinner, .spark { animation: none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="880" height="258" fill="url(#surface)"/>
+    <ellipse cx="693" cy="131" rx="307" ry="206" fill="url(#aura)"/>
+    <path d="M565 0H880V258H450Z" fill="url(#grid)"/>
+    <path d="M566 0L450 258M594 0L478 258" stroke="#aaa0e8" stroke-opacity=".16"/>
+    <g fill="none">
+      <circle cx="700" cy="129" r="94" stroke="#7660b5" stroke-dasharray="2 6"/>
+      <circle cx="700" cy="129" r="73" stroke="url(#orbit)" stroke-width="1.5"/>
+      <circle cx="700" cy="129" r="56" stroke="#b39aff" stroke-opacity=".24"/>
+    </g>
+    <g class="spinner">
+      <path d="M627 129a73 73 0 0 1 73-73" fill="none" stroke="#c5a9ff" stroke-width="2.5" stroke-linecap="round"/>
+      <circle cx="700" cy="56" r="4.5" fill="#eee3ff"/>
+      <circle cx="700" cy="202" r="3" fill="#a5edee"/>
+    </g>
+    <rect x="665" y="94" width="70" height="70" rx="20" fill="#15112d" stroke="#a68be7"/>
+    <path d="m689 120-10 9 10 9m22-18 10 9-10 9m-5-24-12 30" fill="none" stroke="#e5d8ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path class="spark" d="M588 74v16m-8-8h16M798 171v16m-8-8h16" stroke="#d5bcff" stroke-linecap="round"/>
+    <path class="spark late" d="M819 68v10m-5-5h10M577 185v10m-5-5h10" stroke="#a3e5f6" stroke-linecap="round"/>
+    <path d="M53 69h46" stroke="#a98aff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M108 69h9" stroke="#a5edee" stroke-width="3" stroke-linecap="round"/>
+    <text x="49" y="151" fill="url(#type)" font-family="system-ui, sans-serif" font-size="77" font-weight="800" letter-spacing="-3">Cozynxis</text>
+    <text x="54" y="190" fill="#cfc5eb" font-family="ui-monospace, monospace" font-size="16" letter-spacing="2">WEB APPS · BOTS · GAMES</text>
+  </g>
+  <rect x=".5" y=".5" width="879" height="257" rx="24" fill="none" stroke="#7556bd"/>
+</svg>
